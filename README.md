@@ -1,6 +1,6 @@
 # Virtual-Reality---Engineering-Block
 
-## Virtual Reality tour of JECRC University is the environment that is simulated
+ Virtual Reality tour of JECRC University is the environment that is simulated
 by a computer and other peripherals like Oculus Rift, Kinect, and Hydra etc. It is
 primarily a visual experience, displayed either on a computer screen or through special
 stereoscopic displays, but some simulations include additional sensory information,
